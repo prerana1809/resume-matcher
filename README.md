@@ -8,12 +8,12 @@ This system helps you match your resume with job descriptions by analyzing skill
 - NLP techniques such as Cosine Similarity, Jaccard Similarity, and TF-IDF Vectorization are used to calculate a match score.
 
 ## The results display:
-Your extracted skills
-Categorized skills (general role-based grouping)
-Final resume match score
+1. Your extracted skills
+2. Categorized skills (general role-based grouping)
+3. Final resume match score
 
 ## Features
-Automated Skill Extraction: Extracts and compares skills from resumes and job descriptions.
-NLP-based Matching: Uses advanced NLP techniques to determine the relevance of skills.
-Streamlit UI: User-friendly web interface built using Streamlit.
-Real-time Score Calculation: Get instant feedback on your resume-job match.
+- Automated Skill Extraction: Extracts and compares skills from resumes and job descriptions.
+- NLP-based Matching: Uses advanced NLP techniques to determine the relevance of skills.
+- Streamlit UI: User-friendly web interface built using Streamlit.
+- Real-time Score Calculation: Get instant feedback on your resume-job match.
